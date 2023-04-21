@@ -28,9 +28,9 @@ This is the report of how I managed to gain sudo access at [42 school Berlin](ht
 
 
 ## Hardware and OS information
-- Linux Kernel version HERE
-- Operating system version info HERE
-- Computer HARDWARE models HERE
+- Linux Kernel version : 5.15.0-69-generic
+- Operating system version info : Ubuntu 22.04.1 LTS 
+- Computer HARDWARE models : Dell Inc / OptiPlex 7400 AIO
 ## Mitigation resources + similar exploits :
 * [https://cromwell-intl.com/open-source/linux-break-in-howto.html](https://cromwell-intl.com/open-source/linux-break-in-howto.html)
 
