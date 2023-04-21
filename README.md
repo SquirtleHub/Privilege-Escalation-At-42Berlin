@@ -4,7 +4,7 @@ Steps To Reproduce :
 2. Next you should be shown "Grub Boot-loader" (with 3 options) : 
 3. [<screenshot#11>](https://github.com/SquirtleHub/-sudo-Access-At-42Berlin/blob/main/boot.jpg)
 
-3.1 And here the complicated part some computers that have corrupted files during the booting or some hardware problems will makes things easier for you and you don't need to do that's much nonsense handwork because it will be automatically give you the option for the recovery mode == Root-Shell :),
+>> And here the complicated part some computers that have corrupted files during the booting or some hardware problems will makes things easier for you and you don't need to do that's much nonsense handwork because it will be automatically give you the option for the recovery mode == Root-Shell :),
 and make sure that some computer have the superuser that will ask you for a username and password then you will have to force into the recovery mode how ?
 4. Proceed to break into recovery mode
 5. either restart the computer several times or typing nonsense until its forced into recovery mode
