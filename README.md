@@ -1,7 +1,7 @@
 # How I managed to gain _SUDO_ access at 42 School Berlin
 
 ## Context
-The [42 school](https://en.wikipedia.org/wiki/42_(school)) is a free coding school that is open to anyone who is 18+ years old. It is a peer-to-peer learning school where students learn from each other and work on projects in groups. 
+The [42 school](https://en.wikipedia.org/wiki/42_(school)) is a free coding school that is open to anyone who is 18+ years old. It is a peer-to-peer learning school where students learn from each other and work on projects in groups, and there are no teachers. 
 
 There is an archievement called _Hackerman_ to all of those who manage to find a vulnerability in the school's system and report it to the staff. This reinforces the school's security and stimulates students to learn more about security and how to protect themselves from hackers.
 
