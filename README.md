@@ -10,14 +10,14 @@ This is the report of how I managed to gain sudo access at [42 school Berlin](ht
 *Steps To Reproduce :*
 1. During Boot press *Esc* .
 2. Next you will be presented with the _Grub Bootloader_ screen (with 3 options) : 
-3. [<screenshot#11>](https://github.com/SquirtleHub/-sudo-Access-At-42Berlin/blob/main/boot.jpg)
+3. [<bootloader#11>](boot.jpg)
 
 - And here is where the complications can occur, since some of the computers have corrupted files during the boot sequence or hardware problems that allow for this kind of attack, falling back to a _recovery mode_ that will allow you to gain root access to the computer.
 
 4. Enter into recovery mode
 5. Either restart the computer several times or type nonsense until its forced into recovery mode
 6. Once in recovery, you should be presented with the following:
-[<screenshot #1>](https://github.com/SquirtleHub/-sudo-Access-At-42Berlin/blob/main/recovery.jpg)
+[<recovery #1>](recovery.jpg)
 7. And *Boom*, once you press enter you are given a root shell 
 {<screenshot #2>](screenshot here)}
 8. Once logged in as root, you can add your user to the sudoers file (thanks born2beroot project )
