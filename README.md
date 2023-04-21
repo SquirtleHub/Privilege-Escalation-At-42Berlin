@@ -5,14 +5,14 @@ The [42 school](https://en.wikipedia.org/wiki/42_(school)) is a free coding scho
 
 There is an archievement called _Hackerman_ to all of those who manage to find a vulnerability in the school's system and report it to the staff. This reinforces the school's security and stimulates students to learn more about security and how to protect themselves from hackers.
 
-This is the story of how I managed to gain sudo access at [42 school Berlin](https://42berlin.de/).
+This is the report of how I managed to gain sudo access at [42 school Berlin](https://42berlin.de/).
 
 *Steps To Reproduce :*
-1. During boot-up press *Esc* .
-2. Next you will be shown the "Grub Boot-loader" screen (with 3 options) : 
+1. During Boot press *Esc* .
+2. Next you will be presented with the _Grub Bootloader_ screen (with 3 options) : 
 3. [<screenshot#11>](https://github.com/SquirtleHub/-sudo-Access-At-42Berlin/blob/main/boot.jpg)
 
-- And here is where the complications can occur, since some of the computers have corrupted files during the boot sequence or hardware problems that makes this attack possible, falling back to a _recovery mode_ that will allow you to gain root access to the computer.
+- And here is where the complications can occur, since some of the computers have corrupted files during the boot sequence or hardware problems that allow for this kind of attack, falling back to a _recovery mode_ that will allow you to gain root access to the computer.
 
 4. Enter into recovery mode
 5. Either restart the computer several times or type nonsense until its forced into recovery mode
