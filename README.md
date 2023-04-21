@@ -19,7 +19,7 @@ This is the report of how I managed to gain sudo access at [42 school Berlin](ht
 5. Either restart the computer several times or type nonsense until its forced into recovery mode
 6. Once in recovery, you should be presented with the following:
 <img src="recovery.jpg" alt="Image description" width="50%" height="50%">
-7. And *Boom*, once you press enter you are given a root shell 
+7. And **Boom** , once you press enter you are given a root shell 
 {<screenshot #2>](screenshot here)}
 8. Once logged in as root, you can add your user to the sudoers file (thanks born2beroot project )
 
