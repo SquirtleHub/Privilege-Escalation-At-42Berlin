@@ -22,7 +22,7 @@ This is the report of how I managed to gain sudo access at [42 school Berlin](ht
 
 7. And _Boom_ , once you press enter you are given a root shell *(Pwned!)*
 
-<img src="pwned.jpg" alt="pwned42" width="50%" height="50%">
+<img src="pwned.jpg" alt="pwned42" width="75%" height="75%">
 
 8. Once logged in as root, you can add your user to the sudoers file (thanks born2beroot project )
 
