@@ -13,7 +13,7 @@ This is the report of how I managed to gain sudo access at [42 school Berlin](ht
 <img src="boot.jpg" alt="Image description" width="50%" height="50%">
 
 
-3. - And here is where the complications can occur, since some of the computers have corrupted files during the boot sequence or hardware problems that allow for this kind of attack, falling back to a _recovery mode_ that will allow you to gain root access to the computer.
+3. Here is where the complications can occur, since some of the computers have corrupted files during the boot sequence or hardware problems that allow for this kind of attack, falling back to a _recovery mode_ that will allow you to gain root access to the computer.
 
 4. Enter into recovery mode
 5. Either restart the computer several times or type nonsense until its forced into recovery mode
