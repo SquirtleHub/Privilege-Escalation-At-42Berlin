@@ -20,11 +20,11 @@ This is the report of how I managed to gain sudo access at [42 school Berlin](ht
 6. Once in recovery, you should be presented with the following:
 <img src="recovery.jpg" alt="Image description" width="50%" height="50%">
 
-7. And _Boom_ , once you press enter you are given a root shell *(after adding myself to the sudoers via the cli)*
+7. And _Boom_ , once you press enter you are given a root shell *(after adding myself to the sudoers via the cli "command-line-interface")*
 
 <img src="pwned.jpg" alt="pwned42" width="75%" height="75%">
 
-8. Once logged in as root, i had to do a documentation and report it to the staff :) 
+8. Once logged in as root, i had to do a documentation and report it to the staff :) <3
 
 
 ## Hardware and OS information
